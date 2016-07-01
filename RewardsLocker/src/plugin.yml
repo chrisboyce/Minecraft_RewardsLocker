@@ -1,0 +1,7 @@
+name: RewardsLocker
+main: com.bukkit.Turbowaffle.RewardsLocker.RewardsLocker
+version: 0.0.1
+commands:
+  rl_claim:
+    description: Claims a rewards chest, if you don't have one
+    usage: /rl_claim
